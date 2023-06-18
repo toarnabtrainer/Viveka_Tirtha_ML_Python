@@ -1,9 +1,9 @@
 # Viveka_Tirtha_ML_Python
 
-* **COMS Day 1 - Video Link:** https://tinyurl.com/mpmsxd83
-* **CMOS Day 2 - Video Link:** https://tinyurl.com/yc3u2juy
-* **CMOS Day 3 - Video Link:** https://tinyurl.com/m82nxt6v
-* **CMOS Day 4 - Video Link:** https://tinyurl.com/bdesmjak
+* **COMS Day 1 - Video Link:** https://tinyurl.com/mpmsxd83 (Python I/P, Operators, Condition Statements)
+* **CMOS Day 2 - Video Link:** https://tinyurl.com/yc3u2juy (Python Loops and Logic Building)
+* **CMOS Day 3 - Video Link:** https://tinyurl.com/m82nxt6v (Math Module and String Processing)
+* **CMOS Day 4 - Video Link:** https://tinyurl.com/bdesmjak (Exception Handling)
 
 **Pressman E-Book Download Link:**<br>
 https://www.mlsu.ac.in/econtents/16_EBOOK-7th_ed_software_engineering_a_practitioners_approach_by_roger_s._pressman_.pdf
