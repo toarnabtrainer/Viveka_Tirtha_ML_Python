@@ -5,6 +5,16 @@
 * **CMOS Day 3 - Video Link:** https://tinyurl.com/m82nxt6v (Math Module and String Processing)
 * **CMOS Day 4 - Video Link:** https://tinyurl.com/bdesmjak (Exception Handling)
 
+**Class Sequence Order**<br>
+* ClassWorkFile-1.ipynb / Code-Day-1.ipynb
+* Exception Handling.ipynb
+* ClassWorkFile-2.ipynb / Code-Day-2.ipynb
+* OOP.ipynb
+* Database-Day-3.ipynb
+* NumPy.ipynb
+* Pandas.ipynb
+* AEC Data Visualization.ipynb
+
 **Pressman E-Book Download Link:**<br>
 https://www.mlsu.ac.in/econtents/16_EBOOK-7th_ed_software_engineering_a_practitioners_approach_by_roger_s._pressman_.pdf
 
