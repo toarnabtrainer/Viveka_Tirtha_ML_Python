@@ -4,6 +4,7 @@
 * **CMOS Day 2 - Video Link:** https://tinyurl.com/yc3u2juy (Python Loops and Logic Building)
 * **CMOS Day 3 - Video Link:** https://tinyurl.com/m82nxt6v (Math Module and String Processing)
 * **CMOS Day 4 - Video Link:** https://tinyurl.com/bdesmjak (Exception Handling)
+* **CMOS Day 5 - Video Link:** https://tinyurl.com/mu2u465j (User Defined Functions)
 
 **Class Sequence Order**<br>
 * ClassWorkFile-1.ipynb / Code-Day-1.ipynb
