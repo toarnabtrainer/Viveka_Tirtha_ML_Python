@@ -18,7 +18,7 @@
 * **Machine Learning with Python Day 5 - Video Link (Pandas Module-2):** https://tinyurl.com/2fjmv79m
 * **Machine Learning with Python Day 6 - Video Link (Introduction to Machine Learning):** https://tinyurl.com/2ub3edej
 * **Machine Learning with Python Day 7 - Video Link (Correlation & Regression):** https://tinyurl.com/mt4nnjta
-* **Machine Learning with Python Day 8 - Video Link (Logistic Regression):**
+* **Machine Learning with Python Day 8 - Video Link (Logistic Regression):** https://tinyurl.com/3akzcrnj
 
 <br><hr>
 
