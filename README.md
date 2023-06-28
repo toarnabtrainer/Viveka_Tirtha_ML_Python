@@ -1,10 +1,26 @@
 # Viveka_Tirtha_ML_Python
 
-* **COMS Day 1 - Video Link:** https://tinyurl.com/mpmsxd83 (Python I/P, Operators, Condition Statements)
-* **CMOS Day 2 - Video Link:** https://tinyurl.com/yc3u2juy (Python Loops and Logic Building)
-* **CMOS Day 3 - Video Link:** https://tinyurl.com/m82nxt6v (Math Module and String Processing)
-* **CMOS Day 4 - Video Link:** https://tinyurl.com/bdesmjak (Exception Handling)
-* **CMOS Day 5 - Video Link:** https://tinyurl.com/mu2u465j (User Defined Functions)
+<hr>
+
+* **COMS Day 1 - Video Link (Python I/P, Operators, Condition Statements):** https://tinyurl.com/mpmsxd83 
+* **CMOS Day 2 - Video Link (Python Loops and Logic Building):** https://tinyurl.com/yc3u2juy
+* **CMOS Day 3 - Video Link (Math Module and String Processing):** https://tinyurl.com/m82nxt6v
+* **CMOS Day 4 - Video Link (Exception Handling):** https://tinyurl.com/bdesmjak
+* **CMOS Day 5 - Video Link (User Defined Functions):** https://tinyurl.com/mu2u465j
+* **CMOS Day 6 - Video Link (List and Tuple Collections):** https://tinyurl.com/mu2u465j
+
+<br><hr>
+
+* **Machine Learning with Python Day 1 - Video Link (OOP with Python):** https://tinyurl.com/y6zcupez
+* **Machine Learning with Python Day 2 - Video Link (Database with Python):** https://tinyurl.com/2bk7eea8
+* **Machine Learning with Python Day 3 - Video Link (NumPy Module):** https://tinyurl.com/42xa32yk
+* **Machine Learning with Python Day 4 - Video Link (Pandas Module-1):** https://tinyurl.com/4rsx77vv
+* **Machine Learning with Python Day 5 - Video Link (Pandas Module-2):** https://tinyurl.com/2fjmv79m
+* **Machine Learning with Python Day 6 - Video Link (Introduction to Machine Learning):** https://tinyurl.com/2ub3edej
+* **Machine Learning with Python Day 7 - Video Link (Correlation & Regression):** https://tinyurl.com/mt4nnjta
+* **Machine Learning with Python Day 8 - Video Link (Logistic Regression):**
+
+<br><hr>
 
 **Class Sequence Order**<br>
 * ClassWorkFile-1.ipynb / Code-Day-1.ipynb
