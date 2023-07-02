@@ -7,7 +7,7 @@
 * **CMOS Day 3 - Video Link (Math Module and String Processing):** https://tinyurl.com/m82nxt6v
 * **CMOS Day 4 - Video Link (Exception Handling):** https://tinyurl.com/bdesmjak
 * **CMOS Day 5 - Video Link (User Defined Functions):** https://tinyurl.com/mu2u465j
-* **CMOS Day 6 - Video Link (List and Tuple Collections):** https://tinyurl.com/mu2u465j
+* **CMOS Day 6 - Video Link (List and Tuple Collections):** https://tinyurl.com/bdepp7yf
 
 <br><hr>
 
@@ -19,7 +19,8 @@
 * **Machine Learning with Python Day 6 - Video Link (Introduction to Machine Learning):** https://tinyurl.com/2ub3edej
 * **Machine Learning with Python Day 7 - Video Link (Correlation & Regression):** https://tinyurl.com/mt4nnjta
 * **Machine Learning with Python Day 8 - Video Link (Logistic Regression):** https://tinyurl.com/3akzcrnj
-
+* **Machine Learning with Python Day 9 - Video Link (Decision Tree & Random Forest Classifier):** https://tinyurl.com/2s5hbdc6
+* **Machine Learning with Python Day 10 - Video Link (KNN and Introduction to K-Means):** https://tinyurl.com/3rdjpywt
 <br><hr>
 
 **Class Sequence Order**<br>
