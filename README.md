@@ -8,8 +8,10 @@
 * **CMOS Day 4 - Video Link (Exception Handling):** https://tinyurl.com/bdesmjak
 * **CMOS Day 5 - Video Link (User Defined Functions):** https://tinyurl.com/mu2u465j
 * **CMOS Day 6 - Video Link (List and Tuple Collections):** https://tinyurl.com/bdepp7yf
+* **CMOS Day 7 - Video Link (Dictionary, Set and Frozen Set Collections):**
 <br>
-* **GitHub Link for all ClassWork Files and Resources:** 
+
+* **GitHub Link for all ClassWork Files and Resources:** https://github.com/toarnabtrainer/CMOS-Class_XI_and_XII_New-Syllabus
 <hr>
 
 * **Machine Learning with Python Day 1 - Video Link (OOP with Python):** https://tinyurl.com/y6zcupez
@@ -25,7 +27,8 @@
 * **Machine Learning with Python Day 11 - Video Link (Implementations of K-Means and DBSCAN & Project Guidance):**
 * **Machine Learning with Python Day 12 - Video Link (Naive Bayes Classifier & Data Visualization):**
 <br>
-* **GitHub Link for all ClassWork Files and Resources:** d
+
+* **GitHub Link for all ClassWork Files and Resources:** https://github.com/toarnabtrainer/LPU_ML_With_Python_Project
 <hr>
 
 **Class Sequence Order**<br>
