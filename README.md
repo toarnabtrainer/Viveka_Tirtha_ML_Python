@@ -26,6 +26,8 @@
 * **Machine Learning with Python Day 10 - Video Link (KNN and Introduction to K-Means):** https://tinyurl.com/3rdjpywt
 * **Machine Learning with Python Day 11 - Video Link (Implementations of K-Means and DBSCAN & Project Guidance):** https://tinyurl.com/4xm57jx6
 * **Machine Learning with Python Day 12 - Video Link (Naive Bayes Classifier & Data Visualization):** https://tinyurl.com/3wpepty8
+* **Machine Learning with Python Day 13 - Video Link (Project Guidance):** NA
+* **Machine Learning with Python Day 14 - Video Link (Project Presentation by Students):** NA
 <br>
 
 * **GitHub Link for all ClassWork Files and Resources:** https://github.com/toarnabtrainer/LPU_ML_With_Python_Project
