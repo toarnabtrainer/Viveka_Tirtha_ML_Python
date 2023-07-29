@@ -1,0 +1,151 @@
+Product_Location,Product_ID,Product_Name,Brand,Quantity(liters/kg),Price_per_Unit,Total_Value,Storage_Condition,Production_Date,Expiration_Date,Quantity_Sold,Price_per_Unit_Sold,Approx_Total Revenue(INR),Sales_Channel,Quantity_in_Stock_(liters/kg)
+Tamil Nadu,5,Ice Cream,Mother Dairy,222.4,85.72,19064.128,Frozen,27-12-2021,21-01-2022,7,82.24,575.68,Wholesale,215
+West Bengal,1,Milk,Amul,687.48,42.61,29293.5228,Refrigerated,03-10-2021,25-10-2021,558,39.24,21895.92,Wholesale,129
+Tamil Nadu,4,Yogurt,Mother Dairy,503.48,36.5,18377.02,Refrigerated,14-01-2022,13-02-2022,256,33.81,8655.36,Online,247
+Tamil Nadu,3,Cheese,Amul,823.36,26.52,21835.5072,Frozen,15-05-2019,26-07-2019,601,28.92,17380.92,Online,222
+Haryana,8,Buttermilk,Mother Dairy,147.77,83.85,12390.5145,Refrigerated,17-10-2020,28-10-2020,145,83.07,12045.15,Retail,2
+Tamil Nadu,6,Curd,Mother Dairy,593.92,85.54,50803.9168,Refrigerated,03-01-2019,08-01-2019,74,84.75,6271.5,Retail,519
+West Bengal,3,Cheese,Amul,757.14,36.83,27885.4662,Frozen,14-06-2022,05-09-2022,410,32.66,13390.6,Online,347
+Delhi,9,Paneer,Mother Dairy,203.36,29.08,5913.7088,Refrigerated,06-01-2019,20-01-2019,15,29.09,436.35,Online,188
+West Bengal,6,Curd,Mother Dairy,949.12,22.79,21630.4448,Refrigerated,06-06-2020,12-06-2020,860,24.77,21302.2,Wholesale,89
+Tamil Nadu,8,Buttermilk,Mother Dairy,385.64,42.08,16227.7312,Refrigerated,03-02-2022,12-02-2022,108,46.15,4984.2,Retail,277
+Delhi,4,Yogurt,Mother Dairy,52.62,67.23,3537.6426,Refrigerated,02-11-2021,26-11-2021,22,68.09,1497.98,Wholesale,30
+Haryana,7,Lassi,Amul,653.04,84.6,55247.184,Refrigerated,22-08-2020,05-09-2020,345,88.05,30377.25,Online,308
+Delhi,3,Cheese,Amul,12.39,58.28,722.0892,Refrigerated,18-01-2020,27-03-2020,1,58.09,58.09,Retail,11
+Tamil Nadu,5,Ice Cream,Mother Dairy,612.16,94.43,57806.2688,Frozen,15-12-2019,09-01-2020,,94.32,7545.6,Online,532
+Kerala,5,Ice Cream,Mother Dairy,797.69,88.66,70723.1954,Frozen,26-03-2022,23-04-2022,645,93.51,60313.95,Retail,152
+Kerala,1,Milk,Mother Dairy,821.52,11.58,9513.2016,Refrigerated,31-01-2020,01-02-2020,778,8.69,6760.82,Retail,43
+Delhi,10,Ghee,Mother Dairy,663.34,48.83,32390.8922,,26-11-2022,13-04-2023,438,52.79,23122.02,Retail,225
+Kerala,6,Curd,Amul,385.41,26.18,10090.0338,Refrigerated,08-05-2020,14-05-2020,270,30.27,8172.9,Online,115
+Delhi,8,Buttermilk,Amul,367.14,41.05,15071.097,Refrigerated,01-12-2019,11-12-2019,309,40.75,12591.75,Online,58
+Tamil Nadu,1,Milk,Amul,896.89,93.72,84056.5308,Refrigerated,22-05-2021,19-06-2021,486,96.08,46694.88,Wholesale,410
+Tamil Nadu,9,Paneer,,88.69,87.53,7763.0357,Refrigerated,04-04-2020,14-04-2020,26,87.3,2269.8,Wholesale,62
+Delhi,3,Cheese,Amul,220.03,13.94,3067.2182,Frozen,01-07-2022,13-08-2022,62,14.13,876.06,Wholesale,158
+Kerala,4,Yogurt,Amul,524.57,84.48,44315.6736,Frozen,04-04-2020,02-05-2020,173,89.32,15452.36,Retail,351
+West Bengal,3,Cheese,Amul,879.11,90.1,79207.811,Frozen,04-02-2022,12-03-2022,610,91.05,55540.5,Online,269
+Haryana,6,Curd,Amul,212.56,81.31,17283.2536,Refrigerated,26-08-2021,31-08-2021,55,76.37,4200.35,Online,157
+Kerala,9,Paneer,Amul,886.35,62.21,55139.8335,Refrigerated,23-10-2021,31-10-2021,,66.7,56361.5,Wholesale,41
+Delhi,2,Butter,Mother Dairy,430.46,89.64,38586.4344,Frozen,05-07-2022,11-08-2022,47,92.96,4369.12,Wholesale,383
+Tamil Nadu,2,Butter,Mother Dairy,440.42,77.46,34114.9332,Frozen,20-08-2022,25-09-2022,246,77.53,19072.38,Retail,194
+Haryana,6,Curd,Mother Dairy,565.23,86.39,48830.2197,Refrigerated,21-05-2020,27-05-2020,305,84.57,25793.85,Retail,260
+Kerala,7,Lassi,Amul,101.56,18.99,1928.6244,Refrigerated,07-01-2021,21-01-2021,26,,550.94,Retail,75
+Haryana,9,Paneer,Amul,770.27,80.1,61698.627,Refrigerated,02-05-2020,09-05-2020,557,81.76,45540.32,Retail,213
+Delhi,2,Butter,Amul,985.95,92.69,91387.7055,Refrigerated,21-02-2020,20-03-2020,56,96.86,5424.16,Retail,929
+Delhi,9,Paneer,Mother Dairy,595.79,44.3,26393.497,Refrigerated,28-11-2021,10-12-2021,137,46.82,6414.34,Wholesale,458
+Tamil Nadu,10,Ghee,Amul,581.5,43.88,25516.22,Refrigerated,23-08-2019,06-01-2020,86,41.49,3568.14,Wholesale,495
+West Bengal,4,Yogurt,Mother Dairy,332.87,97.87,32577.9869,Frozen,19-03-2019,10-04-2019,95,101.56,9648.2,Retail,237
+Delhi,1,Milk,Mother Dairy,652.4,61.24,39952.976,Refrigerated,12-04-2022,13-04-2022,389,65.53,25491.17,Retail,263
+Haryana,10,Ghee,Amul,486.43,27.23,13245.4889,,20-12-2019,27-04-2020,384,25.51,9795.84,Online,102
+Haryana,7,Lassi,Amul,524.71,49.39,25915.4269,Refrigerated,22-12-2020,08-01-2021,167,45.86,7658.62,Retail,357
+West Bengal,7,Lassi,Amul,675.65,36.87,24911.2155,Refrigerated,28-05-2022,09-06-2022,671,32.92,22089.32,Wholesale,4
+Tamil Nadu,6,Curd,Amul,267.21,27.31,7297.5051,Refrigerated,18-04-2021,24-04-2021,116,22.62,2623.92,Wholesale,151
+Haryana,8,Buttermilk,Mother Dairy,801.25,34.8,27883.5,Refrigerated,25-01-2019,08-02-2019,,38.9,11358.8,Wholesale,509
+Delhi,7,Lassi,Mother Dairy,112.8,91.62,10334.736,Refrigerated,30-10-2019,12-11-2019,104,93.93,9768.72,Retail,8
+Tamil Nadu,7,Lassi,Amul,797.52,92.04,73403.7408,Refrigerated,13-01-2022,26-01-2022,715,89.08,63692.2,Wholesale,82
+Haryana,5,Ice Cream,Amul,675.77,52.35,35376.5595,Frozen,20-02-2021,16-03-2021,6,54.41,326.46,Wholesale,669
+Kerala,1,Milk,Amul,865.01,46.37,40110.5137,Refrigerated,11-10-2019,13-10-2019,302,42.34,12786.68,Retail,563
+Haryana,2,Butter,,8.47,90.79,768.9913,Refrigerated,12-08-2019,19-09-2019,3,87.28,261.84,Retail,5
+Delhi,9,Paneer,Amul,381.78,23.83,9097.8174,Refrigerated,20-12-2020,30-12-2020,82,20.25,1660.5,Wholesale,299
+Delhi,1,Milk,Mother Dairy,834.13,25.48,21253.6324,Refrigerated,25-03-2020,26-03-2020,406,27.22,11051.32,Online,428
+Haryana,7,Lassi,,681.45,78.56,53534.712,,04-07-2019,20-07-2019,552,74.45,41096.4,Retail,129
+Haryana,9,Paneer,Mother Dairy,988.64,55.77,55136.4528,Refrigerated,25-02-2019,06-03-2019,262,52.57,13773.34,Retail,726
+Tamil Nadu,8,Buttermilk,Mother Dairy,410.48,41.31,16956.9288,Refrigerated,27-10-2019,07-11-2019,141,43.02,6065.82,Online,269
+Kerala,5,Ice Cream,Mother Dairy,351.11,58.25,20452.1575,Frozen,03-03-2021,01-04-2021,305,62.31,19004.55,Online,46
+Kerala,8,Buttermilk,Mother Dairy,83.31,62.03,5167.7193,Refrigerated,14-01-2020,27-01-2020,62,65.24,4044.88,Retail,21
+Delhi,2,Butter,Amul,30.69,89.8,2755.962,Frozen,28-11-2018,27-12-2018,22,92.23,2029.06,Retail,8
+Kerala,9,Paneer,Amul,9.78,82.89,810.6642,Refrigerated,31-03-2021,14-04-2021,2,85.42,170.84,Wholesale,7
+Haryana,3,Cheese,Amul,953.21,48.71,46430.8591,Refrigerated,28-08-2022,09-10-2022,705,45.04,31753.2,Retail,248
+Tamil Nadu,7,Lassi,Amul,707.2,98.37,69567.264,Refrigerated,14-05-2021,26-05-2021,145,101.64,14737.8,Retail,562
+Haryana,6,Curd,Mother Dairy,839.1,56.07,47048.337,Refrigerated,01-04-2021,07-04-2021,11,58.17,639.87,Online,828
+Delhi,10,Ghee,Mother Dairy,960.28,68.66,65932.8248,Refrigerated,13-01-2021,30-05-2021,956,69.79,66719.24,Wholesale,4
+Tamil Nadu,4,Yogurt,Amul,65.8,82.43,5423.894,Frozen,21-09-2020,21-10-2020,26,84.9,2207.4,Online,39
+Kerala,10,Ghee,Amul,685.84,92.97,63762.5448,Refrigerated,07-11-2019,29-03-2020,634,95.09,60287.06,Retail,51
+Delhi,4,Yogurt,Mother Dairy,754.25,20.21,15243.3925,Frozen,24-10-2022,21-11-2022,290,21.16,6136.4,Online,464
+Haryana,5,Ice Cream,Amul,750.7,86.58,64995.606,Frozen,04-12-2020,30-12-2020,696,83.73,58276.08,Wholesale,54
+Haryana,10,Ghee,Amul,838.85,61.21,51346.0085,Refrigerated,07-12-2019,02-05-2020,392,61.22,23998.24,Wholesale,446
+Delhi,2,Butter,Mother Dairy,791.17,45.01,35610.5617,Frozen,08-08-2019,14-09-2019,534,,25637.34,Wholesale,257
+West Bengal,1,Milk,Mother Dairy,62.79,95.03,5966.9337,Refrigerated,17-09-2021,08-10-2021,16,93.22,1491.52,Wholesale,46
+Kerala,4,Yogurt,Amul,931.71,45.36,42262.3656,Refrigerated,09-04-2020,05-05-2020,834,40.97,34168.98,Wholesale,97
+West Bengal,7,Lassi,Mother Dairy,398.09,22.2,8837.598,Refrigerated,22-07-2020,05-08-2020,304,23.26,7071.04,Online,94
+Kerala,4,Yogurt,Mother Dairy,548.97,27.07,14860.6179,Refrigerated,31-08-2021,25-09-2021,386,25.29,9761.94,Online,162
+Haryana,4,Yogurt,Amul,357.6,68.17,24377.592,Frozen,25-03-2019,21-04-2019,9,65.87,592.83,Wholesale,348
+Haryana,10,Ghee,Mother Dairy,455.19,44.64,20319.6816,Refrigerated,10-09-2021,01-02-2022,420,48.13,20214.6,Online,35
+Tamil Nadu,1,Milk,Mother Dairy,156.97,81.7,12824.449,Refrigerated,06-06-2022,07-06-2022,103,80.26,8266.78,Retail,53
+Delhi,6,Curd,Amul,120.72,44.7,5396.184,Refrigerated,05-08-2020,10-08-2020,78,48.75,3802.5,Online,42
+West Bengal,8,Buttermilk,Amul,23.96,53.76,1288.0896,Refrigerated,31-05-2022,11-06-2022,23,56.57,1301.11,Online,0
+Delhi,1,Milk,Amul,373.21,38.88,14510.4048,Refrigerated,10-05-2020,11-05-2020,166,36.18,6005.88,Retail,207
+Haryana,6,Curd,Mother Dairy,551.14,64.01,35278.4714,Refrigerated,16-06-2019,21-06-2019,203,65.1,13215.3,Online,348
+Haryana,4,Yogurt,Mother Dairy,595.93,35.46,21131.6778,Frozen,12-06-2021,09-07-2021,54,34.78,1878.12,Online,541
+Haryana,1,Milk,Amul,928.93,50.94,47319.6942,Refrigerated,26-05-2022,17-06-2022,869,54.74,47569.06,Online,59
+West Bengal,8,Buttermilk,Mother Dairy,118.22,20.18,2385.6796,Refrigerated,19-09-2020,01-10-2020,84,15.64,1313.76,Online,34
+West Bengal,3,Cheese,Amul,197.25,99.96,19717.11,Refrigerated,08-06-2019,07-07-2019,150,,15111,Wholesale,47
+Kerala,5,Ice Cream,Amul,69.59,95.3,6631.927,Frozen,20-02-2020,19-03-2020,36,98.67,3552.12,Retail,33
+West Bengal,2,Butter,Amul,705.44,77.71,54819.7424,Refrigerated,17-02-2019,29-03-2019,279,80.91,22573.89,Retail,426
+Tamil Nadu,6,Curd,Amul,336.47,65.23,21947.9381,Refrigerated,18-04-2020,24-04-2020,108,61.59,6651.72,Wholesale,228
+Tamil Nadu,4,Yogurt,Mother Dairy,616.07,80.74,49741.4918,Frozen,01-09-2021,28-09-2021,362,83.85,30353.7,Wholesale,254
+West Bengal,10,Ghee,Mother Dairy,343.94,43.79,15061.1326,Refrigerated,21-07-2020,03-12-2020,320,43.76,14003.2,Retail,23
+Tamil Nadu,1,Milk,Amul,999.78,49.06,49049.2068,Refrigerated,19-12-2021,21-12-2021,499,48.14,24021.86,Online,500
+Kerala,3,Cheese,Amul,211.51,63.08,13342.0508,Refrigerated,28-08-2022,26-10-2022,206,64.22,13229.32,Online,5
+West Bengal,4,Yogurt,Amul,504.33,76.58,38621.5914,Refrigerated,20-04-2022,18-05-2022,490,81.37,39871.3,Retail,14
+Kerala,2,Butter,Mother Dairy,535.1,13.66,7309.466,Frozen,08-07-2021,16-08-2021,18,8.83,158.94,Retail,517
+West Bengal,10,Ghee,Amul,729.21,16.37,11937.1677,Refrigerated,18-02-2019,14-05-2019,458,12.86,5889.88,Wholesale,271
+Haryana,8,Buttermilk,Amul,149.16,86.32,12875.4912,Refrigerated,19-10-2020,01-11-2020,140,81.47,11405.8,Online,9
+Kerala,9,Paneer,Mother Dairy,674.12,43.22,29135.4664,Refrigerated,13-08-2019,24-08-2019,230,42.79,9841.7,Retail,444
+Tamil Nadu,3,Cheese,Amul,627.29,28.93,18147.4997,Refrigerated,01-09-2020,01-10-2020,465,29.8,13857,Online,162
+Delhi,6,Curd,Mother Dairy,865.53,45.95,39771.1035,Refrigerated,30-08-2019,06-09-2019,581,49.38,28689.78,Online,284
+West Bengal,8,Buttermilk,Mother Dairy,582.19,52.51,30570.7969,Refrigerated,01-10-2019,14-10-2019,556,53.75,29885,Retail,26
+West Bengal,1,Milk,Amul,280.1,78.72,22049.472,Refrigerated,20-11-2022,19-12-2022,163,75.83,12360.29,Retail,117
+Kerala,7,Lassi,Amul,331.3,67.3,22296.49,Refrigerated,07-04-2020,19-04-2020,135,67.91,9167.85,Retail,196
+Delhi,1,Milk,Amul,229.17,29.49,6758.2233,Refrigerated,28-10-2019,25-11-2019,159,34.04,5412.36,Wholesale,70
+West Bengal,3,Cheese,Amul,38.2,75.82,2896.324,Refrigerated,09-06-2022,23-07-2022,3,77.91,233.73,Online,35
+Kerala,6,Curd,Amul,242.26,26.85,6504.681,Refrigerated,01-07-2021,08-07-2021,158,25.72,4063.76,Retail,84
+Delhi,3,Cheese,Amul,898.01,25.44,22845.3744,Frozen,04-09-2022,25-11-2022,674,27.1,18265.4,Online,224
+Haryana,7,Lassi,Amul,648.13,99.03,64184.3139,Refrigerated,08-01-2020,24-01-2020,597,103.49,61783.53,Retail,51
+Tamil Nadu,10,Ghee,Mother Dairy,303.9,35.1,10666.89,,05-10-2019,29-02-2020,296,36.16,10703.36,Wholesale,7
+West Bengal,2,Butter,Mother Dairy,615.24,95.65,58847.706,Frozen,23-09-2022,21-10-2022,281,96.42,27094.02,Retail,334
+Kerala,1,Milk,Mother Dairy,105.47,27.19,2867.7293,Refrigerated,05-03-2022,06-03-2022,50,27,1350,Wholesale,55
+Haryana,4,Yogurt,Amul,928.58,82.34,76459.2772,Refrigerated,31-03-2022,24-04-2022,552,78.38,43265.76,Retail,376
+West Bengal,4,Yogurt,Mother Dairy,862.73,98.65,85108.3145,Refrigerated,11-06-2020,04-07-2020,7,99.66,697.62,Online,855
+Tamil Nadu,1,Milk,Amul,904.53,21.58,19519.7574,Refrigerated,13-07-2021,15-07-2021,129,22.4,2889.6,Online,775
+West Bengal,9,Paneer,Mother Dairy,969.09,61.34,59443.9806,Refrigerated,08-12-2018,15-12-2018,779,60.15,46856.85,Wholesale,190
+Kerala,3,Cheese,Amul,215.99,27.78,6000.2022,Refrigerated,24-07-2022,06-10-2022,39,23.87,930.93,Wholesale,176
+Delhi,8,Buttermilk,Amul,394.68,85.32,33674.0976,Refrigerated,03-06-2019,15-06-2019,104,81.24,8448.96,Online,290
+Haryana,1,Milk,Mother Dairy,86.33,48.91,4222.4003,Refrigerated,11-12-2018,08-01-2019,84,45.16,3793.44,Online,2
+Haryana,3,Cheese,Amul,448.41,64.9,29101.809,Refrigerated,12-04-2021,21-05-2021,36,63.9,2300.4,Online,412
+Tamil Nadu,8,Buttermilk,Mother Dairy,959.1,80.71,77408.961,Refrigerated,09-12-2022,23-12-2022,263,81.78,21508.14,Retail,696
+Delhi,5,Ice Cream,Amul,950.71,38.42,36526.2782,Frozen,01-11-2020,25-11-2020,459,36.69,16840.71,Retail,491
+Delhi,5,Ice Cream,Mother Dairy,661.7,76.05,50322.285,Frozen,08-12-2019,06-01-2020,275,73.34,20168.5,Online,386
+Haryana,8,Buttermilk,Amul,682.38,46.2,31525.956,Refrigerated,17-04-2022,25-04-2022,313,41.5,12989.5,Wholesale,369
+Kerala,1,Milk,Amul,662.83,73.51,48724.6333,Refrigerated,21-03-2021,13-04-2021,131,75.47,9886.57,Online,531
+Delhi,8,Buttermilk,Mother Dairy,41.39,67.85,2808.3115,Refrigerated,19-05-2020,01-06-2020,9,65.07,585.63,Online,32
+Delhi,6,Curd,Amul,408.73,34.92,14272.8516,Refrigerated,01-11-2021,08-11-2021,187,34,6358,Online,221
+Haryana,6,Curd,Mother Dairy,576.03,58.83,33887.8449,Refrigerated,19-02-2019,24-02-2019,332,62.34,20696.88,Retail,244
+Delhi,1,Milk,Amul,59.99,51.59,3094.8841,Refrigerated,25-02-2022,24-03-2022,22,51.83,1140.26,Online,37
+Haryana,2,Butter,Mother Dairy,771.93,19.17,14797.8981,Frozen,26-10-2019,28-11-2019,554,15.52,8598.08,Retail,217
+West Bengal,8,Buttermilk,Amul,833.58,20.43,17030.0394,Refrigerated,28-07-2020,07-08-2020,463,16.51,7644.13,Retail,370
+Tamil Nadu,6,Curd,Mother Dairy,520.56,91.25,47501.1,Refrigerated,05-01-2021,12-01-2021,358,91.27,32674.66,Online,162
+Delhi,3,Cheese,Amul,252.87,85.18,21539.4666,Refrigerated,08-08-2022,28-10-2022,137,87.69,12013.53,Wholesale,115
+Haryana,9,Paneer,Amul,571.27,59.43,33950.5761,Refrigerated,15-04-2021,22-04-2021,217,64.24,13940.08,Retail,354
+Delhi,7,Lassi,Amul,333.33,16.94,5646.6102,Refrigerated,25-09-2019,08-10-2019,127,12.67,1609.09,Wholesale,206
+Delhi,3,Cheese,Amul,541.95,76.59,41507.9505,Frozen,20-03-2022,09-05-2022,467,79.62,37182.54,Online,74
+Kerala,9,Paneer,Amul,374.12,49.82,18638.6584,Refrigerated,07-02-2021,15-02-2021,148,51.77,7661.96,Wholesale,226
+Tamil Nadu,3,Cheese,Amul,956.86,19.12,18295.1632,Frozen,18-02-2022,14-04-2022,505,14.62,7383.1,Online,451
+Haryana,1,Milk,Amul,571.63,93.68,53550.2984,Refrigerated,03-05-2022,04-05-2022,480,98.2,47136,Online,91
+Tamil Nadu,1,Milk,Amul,234.32,14.61,3423.4152,Refrigerated,02-01-2022,23-01-2022,190,16.3,3097,Wholesale,44
+Tamil Nadu,1,Milk,Mother Dairy,62.47,94.83,5924.0301,Refrigerated,30-05-2019,31-05-2019,48,90.06,4322.88,Wholesale,14
+Tamil Nadu,5,Ice Cream,Mother Dairy,249.49,89.82,22409.1918,Frozen,28-01-2020,22-02-2020,180,87.33,15719.4,Retail,69
+Delhi,2,Butter,Mother Dairy,351.25,51.05,17931.3125,Frozen,15-01-2019,16-02-2019,350,51,17850,Retail,1
+West Bengal,5,Ice Cream,Amul,653.12,60.52,39526.8224,Frozen,27-05-2022,19-06-2022,148,61.4,9087.2,Online,505
+Haryana,10,Ghee,Mother Dairy,306.96,81.46,25004.9616,Refrigerated,10-09-2020,11-12-2020,62,78.91,4892.42,Wholesale,244
+West Bengal,2,Butter,Mother Dairy,332.23,30.78,10226.0394,Frozen,26-03-2019,05-05-2019,328,27.15,8905.2,Wholesale,4
+West Bengal,1,Milk,Amul,313.25,32.66,10230.745,Refrigerated,21-11-2019,22-11-2019,73,32.72,2388.56,Online,240
+Tamil Nadu,6,Curd,Amul,488.83,42.69,20868.1527,Refrigerated,13-02-2019,19-02-2019,167,41.02,6850.34,Wholesale,321
+Haryana,10,Ghee,Amul,93.31,86.93,8111.4383,Refrigerated,25-05-2021,01-08-2021,76,89.11,6772.36,Online,17
+Delhi,2,Butter,Amul,901.18,53.26,47996.8468,,01-05-2020,04-06-2020,637,51.25,32646.25,Wholesale,264
+West Bengal,10,Ghee,Mother Dairy,51.63,52.64,2717.8032,Refrigerated,29-08-2019,30-10-2019,37,53.69,1986.53,Online,14
+West Bengal,3,Cheese,Amul,254,31.29,7947.66,Frozen,26-08-2022,24-10-2022,222,34.02,7552.44,Wholesale,32
+Haryana,2,Butter,Amul,650.03,57.57,37422.2271,Frozen,02-12-2020,02-01-2021,74,52.88,3913.12,Online,576
+West Bengal,4,Yogurt,Mother Dairy,365.86,69.14,25295.5604,Refrigerated,31-07-2019,25-08-2019,286,65.31,18678.66,Online,79
+Delhi,1,Milk,Mother Dairy,448.09,75.81,33969.7029,Refrigerated,18-11-2022,20-11-2022,329,71.75,23605.75,Wholesale,119
+Kerala,10,Ghee,Amul,346.96,60.81,21098.6376,,06-08-2022,31-10-2022,127,60.5,7683.5,Retail,219
+Kerala,10,Ghee,Amul,346.96,60.81,21098.6376,Refrigerated,06-08-2022,31-10-2022,127,60.5,7683.5,Online,219
