@@ -68,6 +68,21 @@ https://www.onlinegdb.com/
 **Learn Python Programming (programmiz.com):** https://www.programiz.com/python-programming<br>
 **Learn Python Programming (data-flair):** https://data-flair.training/blogs/python-tutorial/
 
+**NumPy Tutorial Link:** https://numpy.org/doc/stable/user/quickstart.html<br>
+**Pandas Tutorial Link:** https://pandas.pydata.org/pandas-docs/stable/getting_started/tutorials.html<br>
+**MatplotLib Full Tutorial Link:** https://matplotlib.org/stable/gallery/index.html<br>
+**Seaborn Full Tutorial Link:** https://seaborn.pydata.org/examples/grouped_violinplots.html<br>
+**Python Official Site Link:** https://docs.python.org/<br>
+
+**HTML Color Codes:**<br>
+https://htmlcolorcodes.com/
+
+**HYML Text Tutorial Link:**<br>
+https://www.w3schools.com/html/default.asp
+
+**Google Drive Link for E-Books on Machine Learning:**<br>
+https://drive.google.com/drive/folders/15ho9XljDUk0X6OHawuQHX5uuzS4XAuut?usp=sharing
+
 **MS-Office/O365 Reference Tutorial Links -**<br>
 * **MS-Office 2007:** https://edu.gcfglobal.org/en/topics/office2007/
 * **MS-Office 2010:** https://edu.gcfglobal.org/en/topics/office2010/
